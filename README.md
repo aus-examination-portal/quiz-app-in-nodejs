@@ -35,3 +35,6 @@ This means only admin can create, update or delete a quiz/question </p>
 <li>For doing unit tests type the command <b>npm run test</b>. This will do the unit tests on different end points for sanity checking.</li>
 <li>To start the server enter the command <b>npm start</b></li>
 </ul>
+
+
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=aus-examination-portal_quiz-app-in-nodejs)
